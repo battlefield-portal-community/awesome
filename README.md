@@ -24,7 +24,7 @@
 - [PortalHelper](https://github.com/battlefield-portal-community/portal_helper) A discord bot to show documentation of all blocks in discord, also shows info of an experience
 
 # Resources 
-- [Comunity Docs](https://docs.bfportal.gg/)
+- [Community Docs](https://docs.bfportal.gg/)
   - Community maintained docs that contain extra and helpfull information about the usage of blocks
 - [Battlefield Dad's Portal Playlist](https://www.youtube.com/@BattlefieldDad/playlists?view=50&sort=dd&shelf_id=5)
   - A youtube playlist for learning basics and advance stuff in portal
