@@ -1,5 +1,12 @@
 > By the community, For the community
 
+> <picture>
+>   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/info.svg">
+>   <img alt="Info" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/info.svg">
+> </picture><br>
+>
+> Join Our [Discord](https://discord.bfportal.gg/) 🤗
+
 # Awesome Battlefield Portal
 
 An Awesome list about all things related to portal
@@ -9,6 +16,13 @@ An Awesome list about all things related to portal
 - [PortalHelper](https://github.com/battlefield-portal-community/portal_helper) 
   - A discord bot to show documentation of all blocks in discord, also shows info of an experience
 - [BF2042 Portal Extensions](https://github.com/LennardF1989/BF2042-Portal-Extensions)
+  - > <picture>
+    >   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/danger.svg">
+    >   <img alt="Danger" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/danger.svg">
+    > </picture><br>
+    >
+    > Extension Broken please use the latest pre-release with fixes from [here](https://github.com/p0lygun/BF2042-Portal-Extensions/releases/)
+    
   - A Browser extension that adds additional functionality to the BF2042 Portal Rules Editor.
   - Allows users to create plugins in order to add even more functionality themselves
   - **List of Plugins**
