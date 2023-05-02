@@ -21,7 +21,7 @@ An Awesome list about all things related to portal
     >   <img alt="Danger" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/danger.svg">
     > </picture><br>
     >
-    > Extension Broken please use the latest pre-release with fixes from [here](https://github.com/p0lygun/BF2042-Portal-Extensions/releases/)
+    > Extension Broken please use the latest pre-release with fixes from [here](https://github.com/LennardF1989/BF2042-Portal-Extensions/releases/)
     
   - A Browser extension that adds additional functionality to the BF2042 Portal Rules Editor.
   - Allows users to create plugins in order to add even more functionality themselves
